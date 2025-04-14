@@ -37,11 +37,11 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     # Your name
-    author="bobokun",
+    author="csouthard22",
     # Your email
     author_email="",
     # Either the link to your github or to your website
-    url="https://github.com/StuffAnThings",
+    url="https://github.com/csouthard22",
     # Link from which the project can be downloaded
-    download_url="https://github.com/StuffAnThings/qbit_manage",
+    download_url="https://github.com/csouthard22/qbit_manage",
 )
